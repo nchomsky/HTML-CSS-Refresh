@@ -290,7 +290,7 @@ nav {
   clear: both;
 }
 
-/* After will insert a brand new psuedoelemtn at the end of the main header container */
+/* After will insert a brand new psuedo element at the end of the main header container */
 .clearfix::after {
   clear: both;
   content: "";
